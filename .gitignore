@@ -1,0 +1,7 @@
+# Data
+data/
+
+# Python
+__pychache__/
+*.pyc
+.ipynb_checkpoints/
