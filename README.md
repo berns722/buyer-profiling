@@ -36,6 +36,24 @@ buyer-profiling/
 │   └── eda.py
 └── README.md
 ```
+## How to Run
+
+1. Clone the repository:
+```bash
+   git clone https://github.com/berns722/buyer-profiling.git
+   cd buyer-profiling
+```
+
+2. Create and activate the conda environment:
+```bash
+   conda env create -f environment.yml
+   conda activate ml-lab
+```
+
+3. Launch the notebook:
+```bash
+   jupyter notebook notebooks/analysis.ipynb
+```
 
 ## Methodology
 
