@@ -47,7 +47,7 @@ buyer-profiling/
 2. Create and activate the conda environment:
 ```bash
    conda env create -f environment.yml
-   conda activate ml-lab
+   conda activate buyer-profiling
 ```
 
 3. Launch the notebook:

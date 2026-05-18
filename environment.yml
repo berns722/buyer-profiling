@@ -1,4 +1,4 @@
-name: ml-lab
+name: buyer-profiling
 channels:
   - defaults
   - conda-forge
