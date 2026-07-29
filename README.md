@@ -32,8 +32,6 @@ buyer-profiling/
 │   └── austo_automobile.csv
 ├── notebooks/
 │   └── analysis.ipynb
-├── src/
-│   └── eda.py
 └── README.md
 ```
 ## How to Run

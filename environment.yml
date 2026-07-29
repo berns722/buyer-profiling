@@ -12,3 +12,5 @@ dependencies:
     - pandas==2.2.2
     - numpy==2.0.2
     - matplotlib==3.10.0
+    # EDA helpers import from the lab's engine (mllab-core),
+    # private for now: clone ml-lab and run `pip install -e .` in its root
