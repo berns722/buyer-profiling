@@ -15,6 +15,23 @@ mid-range salaries (~$62k) and household income (~$82k). Average car price: $42,
 ~$99k household income), with greater financial stability. Average car price: $59,300.
 - All three segments are predominantly married with post-graduate degrees.
 
+## Key Visuals
+
+The Age → Make → Price progression, in two plots:
+
+![Age by Make](images/age-by-make.png)
+
+![Price by Make](images/price-by-make.png)
+
+Gender composition differs sharply by segment — Hatchbacks are almost exclusively
+bought by men, while Sedans and SUVs are gender-balanced:
+
+![Gender by Make](images/gender-by-make.png)
+
+The multivariate view: segments separate cleanly across age, income, and price:
+
+![Pairplot by Make](images/pairplot-by-make.png)
+
 ## Recommendations
 
 - Target younger demographics (22-30) with affordable Hatchbacks emphasizing 
@@ -30,8 +47,10 @@ and premium features.
 buyer-profiling/
 ├── data/
 │   └── austo_automobile.csv
+├── images/
 ├── notebooks/
 │   └── analysis.ipynb
+├── environment.yml
 └── README.md
 ```
 ## How to Run
